@@ -1,0 +1,5 @@
+/media/DOCUMENTOS/repos/unet/ejemplos-socket/Sockets/C-Sharp/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/DOCUMENTOS/repos/unet/ejemplos-socket/Sockets/C-Sharp/bin/Release/C-Sharp.exe.mdb
+/media/DOCUMENTOS/repos/unet/ejemplos-socket/Sockets/C-Sharp/bin/Release/C-Sharp.exe
+/media/DOCUMENTOS/repos/unet/ejemplos-socket/Sockets/C-Sharp/obj/x86/Release/C-Sharp.exe
+/media/DOCUMENTOS/repos/unet/ejemplos-socket/Sockets/C-Sharp/obj/x86/Release/C-Sharp.exe.mdb

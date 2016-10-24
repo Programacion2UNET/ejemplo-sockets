@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="C-Sharp/SocketEjemplo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C-Sharp/Program.cs">
+    <Files>
+      <File FileName="C-Sharp/Program.cs" Line="21" Column="1" />
+      <File FileName="C-Sharp/Cliente.cs" Line="38" Column="6" />
+      <File FileName="C-Sharp/Servidor.cs" Line="26" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

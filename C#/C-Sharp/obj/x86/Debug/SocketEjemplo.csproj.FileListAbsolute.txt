@@ -1,0 +1,5 @@
+E:\repos\unet\ejemplos-socket\Sockets\C-Sharp\obj\x86\Debug\C-Sharp.exe
+E:\repos\unet\ejemplos-socket\Sockets\C-Sharp\bin\Debug\C-Sharp.exe
+E:\repos\unet\ejemplos-socket\Sockets\C-Sharp\bin\Debug\C-Sharp.pdb
+E:\repos\unet\ejemplos-socket\Sockets\C-Sharp\obj\x86\Debug\SocketEjemplo.csprojResolveAssemblyReference.cache
+E:\repos\unet\ejemplos-socket\Sockets\C-Sharp\obj\x86\Debug\C-Sharp.pdb
